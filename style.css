@@ -23,13 +23,13 @@ Project Manager
 
 
 .main-content{
-background-color:#2b3e50;
+background-color:#f5f8fa
 }
 
 
 body{
-	color:#ebebeb;
-	background-color:#2b3e50;
+	color:#blue;
+	
 }
 
 .btn-default{
@@ -41,15 +41,15 @@ body{
 }
 
 a{
-	color:orange;
+	color:black;
 }
 
 .navbar-collapse{
-background-color:#df691a;
+background-color:white;
 }
 
 .navbar-default .navbar-nav>li>a {
-    color:#ebebeb  ;
+    color:#1da1f2;
 }
 /*sidebar col-sm-12 col-md-4*/
 
@@ -78,3 +78,24 @@ background-color: #df691a
 .navbar-default .navbar-brand {
     color: white;
 }
+
+
+
+/*.site-header-inner{
+background-color:#df691a;
+}
+
+*/
+
+
+
+
+#masthead{
+	background-image: url(https://abs.twimg.com/a/1468784868/img/t1/lohp_streams_header_bg_v4.png);
+	background-color: #4489be;
+	}
+
+
+
+
+
