@@ -1,0 +1,80 @@
+/*
+ Theme Name:   Donnys Theme
+ Theme URI:    http://yourwebsite.com/twentyfourteen-child/
+ Description:  My first child theme, based on Twenty Fourteen
+ Author:       ThemeKraft
+ Author URI:   http://danielpataki.com
+ Template:     _tk-master
+ Version:      1.0.0
+ Tags:         black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready, responsive-layout, infinite-scroll, post-slider, design, food, journal, magazine, news, photography, portfolio, clean, contemporary, dark, elegant, modern, professional, sophisticated
+ Text Domain:  twenty-fourteen-child
+*/
+
+/*
+Project Manager
+- Change site title & tagline according to project requirements
+- Create 2 posts categorized as 'portfolio' and delete the portfolio page
+- add the category portfolio to the menu
+
+
+
+*/
+
+
+
+.main-content{
+background-color:#2b3e50;
+}
+
+
+body{
+	color:#ebebeb;
+	background-color:#2b3e50;
+}
+
+.btn-default{
+	color:#df691a;
+}
+
+.container{
+	background-color:2b3e50 ; 
+}
+
+a{
+	color:orange;
+}
+
+.navbar-collapse{
+background-color:#df691a;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:#ebebeb  ;
+}
+/*sidebar col-sm-12 col-md-4*/
+
+.jumbotron{
+	background-color:gray;
+}
+
+.btn-primary	{
+	background-color:#df691a; 
+}
+
+button{
+	background-color: #df691a;
+}
+
+
+
+input.wpcf7-form-control.wpcf7-submit{
+background-color: #df691a
+
+}
+
+
+
+
+.navbar-default .navbar-brand {
+    color: white;
+}
